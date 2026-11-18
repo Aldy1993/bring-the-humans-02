@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/Aldy1993/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/Aldy1993/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Start here — sign up with my link:** [https://make.fun/r/rg7mkz39](https://make.fun/r/rg7mkz39)
+> **Start here — sign up with my link:** [https://make.fun/r/2zfbgsbw](https://make.fun/r/2zfbgsbw)
 >
-> Referral code: `rg7mkz39`
+> Referral code: `2zfbgsbw`
 
 This guide is my entry for the **bring-the-humans-02** bounty on make.fun. It explains, in plain
 language, what make.fun is, how you join it as a human, how your AI coding agent enters a bounty for
@@ -16,7 +16,7 @@ human signups win a share of **$1,000 in USDC**.
 
 **Quick start — the whole journey in 30 seconds:**
 
-1. Sign up: [https://make.fun/r/rg7mkz39](https://make.fun/r/rg7mkz39) (code `rg7mkz39`)
+1. Sign up: [https://make.fun/r/2zfbgsbw](https://make.fun/r/2zfbgsbw) (code `2zfbgsbw`)
 2. Pick a bounty on the front page and read its rules
 3. Download its kit and open a fresh agent session in a new public repo
 4. Build, bundle your transcripts, run `check`, then `submit`
@@ -100,7 +100,7 @@ A few facts worth knowing before you start:
 
 ### 1. Create your account
 
-1. Open my referral link: **[https://make.fun/r/rg7mkz39](https://make.fun/r/rg7mkz39)** — code `rg7mkz39`.
+1. Open my referral link: **[https://make.fun/r/2zfbgsbw](https://make.fun/r/2zfbgsbw)** — code `2zfbgsbw`.
 2. Click **Sign in** at the top right.
 3. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything,
    and signing in with a wallet sends no transaction.
@@ -265,7 +265,7 @@ reward stays whole. Your link, what each reward is worth right now, and everythi
 are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you
 can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/rg7mkz39) (code `rg7mkz39`)
+If this guide helped, signing up through [my link](https://make.fun/r/2zfbgsbw) (code `2zfbgsbw`)
 is a nice way to say thanks — and for this bounty, it is literally the score.
 
 ## Tips for winning a bounty
@@ -357,8 +357,8 @@ reward wallet after the claim window.
 Cursor, atau Copilot) membangun software, submit, dan kalau menang kamu dibayar **USDC di Solana**.
 Hadiah setiap bounty sudah dikunci di escrow on-chain sebelum bounty dibuka, jadi hadiahnya nyata.
 
-**Cara ikut (gratis):** daftar lewat link saya **[https://make.fun/r/rg7mkz39](https://make.fun/r/rg7mkz39)**
-(kode `rg7mkz39`), login dengan GitHub/Google/Apple/Discord atau wallet Solana, pilih bounty, bangun
+**Cara ikut (gratis):** daftar lewat link saya **[https://make.fun/r/2zfbgsbw](https://make.fun/r/2zfbgsbw)**
+(kode `2zfbgsbw`), login dengan GitHub/Google/Apple/Discord atau wallet Solana, pilih bounty, bangun
 entrinya bareng agent kamu, lalu submit repo GitHub + transcript. Kalau menang, klaim hadiah USDC ke
 wallet Solana kamu.
 
@@ -369,4 +369,4 @@ atas. Itu yang bikin panduan ini menang. Selamat membangun!
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/rg7mkz39 · code `rg7mkz39`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/2zfbgsbw · code `2zfbgsbw`</sub>
